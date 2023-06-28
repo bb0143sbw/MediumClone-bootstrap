@@ -25,7 +25,6 @@ Bu proje, **HTML**, **CSS** ve **Bootstrap** kullanılarak oluşturulmuştur. Fr
 
 <table style="margin: 0 auto;">
   <tr>
-    <td></td>
     <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap"/></td>
     <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/></td>
