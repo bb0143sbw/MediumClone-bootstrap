@@ -2,7 +2,8 @@
 
 <img src="assets/images/page-img.png"/>
 
-Bu proje, web geliştirme yeteneklerimi sergilemek veMedium platformunun tasarımını taklit etmeyi amaçlamaktadır. Temel olarak kullanıcıya makale başlıklarını ve yazarlarını gösterir.
+Bu proje, web geliştirme yeteneklerimi sergilemek ve Medium platformunun tasarımını taklit etmeyi amaçlamaktadır. Temel olarak kullanıcıya makale başlıklarını ve yazarlarını gösterir.
+Proje linki: [Medium Clone](https://medium-clone-bootstrap-one.vercel.app/)
 
 ## 🚀 Özellikler
 
